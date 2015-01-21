@@ -1,0 +1,65 @@
+<!-- Standard Menu -->
+
+<div id="home">
+    <a href="@root_path">@name</a>
+</div>
+<div id="navigation">
+
+  foreach $root do
+	if $children do
+		<div class="menu-link" id="projects-link">
+			<h2>
+      			<a>@title</a>
+      		</h2>
+   		</div>	  
+   	endif
+   	if !$children do	
+	    <div class="menu-link">
+	      <h2>
+	      	<a href="@url">@title</a>
+	      </h2>
+	    </div>
+    endif
+  endforeach
+
+  <div class="menu-link">
+		<h2>
+   		   <a href="http://lleigha.tumblr.com/">Blog</a>
+   		</h2>
+  </div>
+</div>
+
+
+<!-- Projects Pop-up -->
+
+<div id="projects-list-menu" class="hide">
+	<div id="close-link">
+		<span>CLOSE</span>
+	</div>
+  get "/projects" do
+	<div id="projects-list">
+		<ul class="projects">
+			foreach $children do
+			<li>
+				<h2>
+					<a href="@url">@title</a>
+				</h2>
+			</li>
+			endforeach
+		</ul>
+	</div>
+	end
+</div>
+
+
+<!-- Everything -->
+<div id="everything-link">
+	<h2>
+		<a href="/everything">Every<br/>
+			Thing</a>
+	</h2>
+
+</div>
+
+
+

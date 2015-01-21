@@ -1,0 +1,23 @@
+foreach $root do
+  if $children do
+    <div class="projects" id="projects-container" class="js-masonry">
+      <div class="grid-sizer"></div>
+      foreach $children do
+          <div class="project-teaser">
+              if @thumb do 
+              <a href="@url">
+                <div class="thumb-wrapper">
+                  <img src="@thumb" class="project-thumb">
+                </div>
+              </a> 
+              endif
+              <div class="project-title">
+                <span class="text">
+                  <a href="@url">@title</a>
+                </span>
+              </div>
+          </div>
+      endforeach
+    </div>
+  endif
+endforeach

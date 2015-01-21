@@ -1,0 +1,46 @@
+<script type="text/javascript" src="@root_path/public/docs/js/jquery.bxslider.js"></script>
+
+<script>
+
+$( ".slider-pager" ).each(function(i) {
+  $( this ).addClass( 'each-pager'+(i) );
+});
+
+$( ".auto-controls" ).each(function(i) {
+  $( this ).addClass( 'each-auto'+(i) );
+});
+
+// declare global
+
+var slider_array = new Array();
+
+$(document).ready(function($){
+
+	// launch bxslider
+    $('.bxslider').each(function(i){
+
+        slider_array[i] = $(this).bxSlider({
+        	mode: 'fade',
+		  	speed: '500',
+		  	pagerType: 'short',
+		  	pagerShortSeparator: ' of ',
+		  	pagerSelector: '.each-pager'+(i),
+		  	adaptiveHeight: 'true',
+		  	auto: 'true',
+		  	autoControls: 'true',
+		  	autoControlsCombine: 'true',
+		  	autoControlsSelector: '.each-auto'+(i),
+
+		  	onSliderLoad: function(){
+		        $(".slider-container").css("visibility", "visible");
+		      }
+			  
+			});
+   
+        $(".bx-wrapper img[src*='dropshadow']").closest(".bx-wrapper .bx-viewport").css( "box-shadow", "none" );
+
+        });
+    });
+
+
+</script>

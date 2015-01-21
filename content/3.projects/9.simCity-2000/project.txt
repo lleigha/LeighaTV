@@ -1,0 +1,13 @@
+title: SimCity 2000
+-
+date: 2009
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+Well known iconic buildings were produced using the SimCity 2000 Urban Renewal Kit, running only on iOS Classic, in order to run simulations of scenario planning in which big architecture and the Bilbao effect fail. The images accompanied "Personal Lubricants: Shell Oil and Scenario Planning", a text by Kazys Varnelis and Robert Sumrell of <a target="_blank" href="http://audc.org/">AUDC</a>, published in <em>New Geographies 3: Landscapes of Energy</em>. 
+</p>
+<p>
+<a target="_blank" href="http://audc.org/publications/personal-lubricants/">Full text</a>
+</p>

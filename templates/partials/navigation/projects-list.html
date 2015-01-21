@@ -1,0 +1,15 @@
+if $children do
+<div id="projects-list-container">
+  <div id="projects-list">
+    <ul class="projects">
+      foreach $children do
+      <li>
+        <h2>
+          <a href="@url">@title</a>
+        </h2>
+      </li>
+      endforeach
+    </ul>
+  </div>
+</div>
+endif

@@ -1,0 +1,14 @@
+if $images do
+<div class="slider-container">
+	<ul class="bxslider">
+		foreach $images do
+		    <li><img src="@url" alt="@title" width="@width"></li>
+		endforeach
+	</ul>
+	<div class="slider-controls">
+		<div class="slider-pager"></div>
+		<div class="auto-controls"></div>
+	</div>
+</div>
+endif
+      

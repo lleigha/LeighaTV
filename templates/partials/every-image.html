@@ -1,0 +1,10 @@
+if $children do
+ foreach $children do
+  foreach $images do
+  <a class="image-teaser" href="@url" data-source="@root_path@pagepermalink" title="@title">
+      <img src="@url" alt="@title" width="200">
+  </a>
+  endforeach
+  :every-image
+ endforeach
+endif

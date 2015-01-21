@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>@title</title>
+    <link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
+    :head
+    <link rel="stylesheet" href="@root_path/public/docs/css/everything.css">
+    <link rel="stylesheet" href="@root_path/public/docs/css/preloader.css">
+  </head>
+  <body>
+    <div id="page-container">
+      :navigation
+      :preloader
+      <div id="content">
+        <div id="image-container" class="js-masonry">
+           <div class="grid-sizer"></div>
+            foreach $root do
+
+              :every-image
+
+            endforeach
+          </div>
+        </div>
+      </div>
+    </div>
+    :scripts
+    <script type="text/javascript" src="@root_path/public/docs/js/jquery.magnific-popup.js"></script> 
+    <script>
+
+       $(document).ready(function() {
+
+
+            ///Preloader///
+            $(window).load(function(){
+              $('#squaresWaveG').fadeOut(200);
+              $('#preloader').fadeOut(1000,function(){
+                $(this).remove();
+                });
+            });
+
+
+
+            var $container = $('#image-container');
+
+             
+            $container.imagesLoaded( function(){
+
+              ///Masonry///
+              $container.masonry({
+                itemSelector : '.image-teaser',
+                columnWidth : '.grid-sizer',
+                transitionDuration : 0,
+                isFitWidth: 'true',
+              });
+
+              $container.fadeTo( "slow", 1.0 );
+
+              });
+
+              ///Magnific Popup///    
+              $('#image-container').magnificPopup({ 
+                delegate: 'a',
+                type: 'image',
+                preloader: true,
+                gallery:{
+                  enabled:true,
+                  preload: [2,2],
+                },
+                image: {
+                  titleSrc: function(item) {
+                    return  '<a href="'+item.el.attr('data-source')+'">'+item.el.attr('title')+'</a>';
+                  }
+                },
+
+              });
+            
+
+        });
+      </script>
+  </body>
+</html>
