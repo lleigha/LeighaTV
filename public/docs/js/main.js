@@ -9,12 +9,16 @@ $(document).ready(function(){
   var $container = $('#projects-container');
 
   $container.imagesLoaded( function(){
+
     $container.masonry({
       itemSelector : '.project-teaser',
       columnWidth : '.grid-sizer',
       transitionDuration : 0
     })
     .masonry();
+
+    $container.fadeTo( "fast", 1.0 );
+
   });
 
 //
@@ -95,7 +99,6 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
     }
     
 });
-
   
 
 });

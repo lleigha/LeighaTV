@@ -217,6 +217,7 @@ ul.projects li {
 #projects-container {
     width: 100%; 
     text-align: left;
+    opacity:0.0;
 }
 
 .overflow-gutterfix{
@@ -377,6 +378,8 @@ img.project-thumb-small {
 #media .caption {
     font-size: .9em;
 }
+
+/* Images loading*/
 
 
 

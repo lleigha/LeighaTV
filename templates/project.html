@@ -6,28 +6,6 @@
     <title>@title</title>
     <link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
     :head
-    <script type="text/javascript">
-
-      $(window).load(function(){
-        $("#pager").fadeIn("slow");
-      });
-
-      $(window).bind("load resize", function() {
-
-        $("#pager").show();
-
-        var media = $('#media');
-        var offset = media.offset();
-
-        if ($("#pager-bottom").css("display") == "none" ) {
-          $("#pager").offset({ top: 35, left: offset.left});
-        } else {
-          $("#pager").css("display", "none");
-        }
-        
-    });
-
-    </script>
   </head>
   <body>
     <div id="page-container">
