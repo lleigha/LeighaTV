@@ -5,7 +5,7 @@ date: May 2013
 pagepermalink: @permalink
 -
 content: 
-<em>Building Megalopolis</em>, as one project of the Extreme Cities initiative, was a 4 week workshop and exhibition located at Columbia University GSAPP’s Studio-X New York from May 1-30, 2013. The project was a collaborative endeavor including Mark Wigley, <a target="_blank" href="http://c-lab.columbia.edu/">C-Lab</a>, <a target="_blank" href="http://www.networkarchitecturelab.org/work/building-megalopolis/">The Network Architecture Lab</a>, David King, Architecture Online Lab, <a target="_blank" href="http://www.neildonnelly.net/#building-megalopolis">Neil Donnelly</a>, Studio-X, and a host of students.
+<em>Building Megalopolis</em>, one project of the Extreme Cities initiative, was a 4 week workshop and exhibition located at Columbia University GSAPP’s Studio-X New York from May 1-30, 2013. The project was a collaboration between Mark Wigley, <a target="_blank" href="http://c-lab.columbia.edu/">C-Lab</a>, <a target="_blank" href="http://www.networkarchitecturelab.org/work/building-megalopolis/">The Network Architecture Lab</a>, David King, Architecture Online Lab, <a target="_blank" href="http://www.neildonnelly.net/#building-megalopolis">Neil Donnelly</a>, James Graham, Studio-X, and a host of students.
 
 The Network Architecture Lab, which included an Advanced Graduate Studio, researched the BOSWASH Megalopolis 50 years into the past in order to project possible scenarios 50 years into the future.
 
