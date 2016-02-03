@@ -145,10 +145,12 @@ hr {
     line-height: 2em;
 }
 
+#everything-link :hover {
+    margin: 4px 0px -4px 0px;
+}
+
 #everything-link a:hover {
     border: none;
-    letter-spacing: 4px;
-    line-height: 1.3em;
 }
 
 
@@ -402,6 +404,10 @@ img.project-thumb-small {
     margin: 0px 30px 30px 0px; 
 }
 
+#image-container a:hover {
+    border-bottom: none;
+    margin: 4px 0px -4px 0px;
+}
 
 /* Info Page */
 
