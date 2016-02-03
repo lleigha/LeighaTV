@@ -140,13 +140,15 @@ hr {
 #everything-link {
     position: fixed;
     bottom: 35px;
-    right: 40px;
+    right: 32px;
     z-index:9996;
     line-height: 2em;
+    border: solid 2px transparent;
+    padding: 6px 8px;
 }
 
-#everything-link :hover {
-    margin: 4px 0px -4px 0px;
+#everything-link:hover {
+    border: solid 2px;
 }
 
 #everything-link a:hover {
@@ -406,7 +408,6 @@ img.project-thumb-small {
 
 #image-container a:hover {
     border-bottom: none;
-    margin: 4px 0px -4px 0px;
 }
 
 /* Info Page */
