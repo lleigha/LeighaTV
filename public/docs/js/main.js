@@ -44,15 +44,27 @@ $(window).resize(function(){
 //
 var $title = $('span.text');
 var $thumb = $('.thumb-wrapper');
+var $category = $('.categories');
+
 $thumb.hover(function () {
-	var $teaser = $(this).parents('.project-teaser');
-    $teaser.find($title).css( "border-bottom", "2px solid" );
+  var $teaser = $(this).parents('.project-teaser');
+    $teaser.find($category).css( "visibility", "visible" );
   }, 
   function () {
-  	var $teaser = $(this).parents('.project-teaser');
-    $teaser.find($title).css( "border-bottom", "none" );
+    var $teaser = $(this).parents('.project-teaser');
+    $teaser.find($category).css( "visibility", "hidden" );
   }
   );
+
+// $thumb.hover(function () {
+// 	var $teaser = $(this).parents('.project-teaser');
+//     $teaser.find($title).css( "border-bottom", "2px solid" );
+//   }, 
+//   function () {
+//   	var $teaser = $(this).parents('.project-teaser');
+//     $teaser.find($title).css( "border-bottom", "none" );
+//   }
+//   );
 //
 //
 // Projects List
@@ -67,7 +79,6 @@ $('#close-link').click(function(){
     $('#projects-list-menu').addClass('hide');
 });
 
-
 //
 //
 // Image Drop Shadow
@@ -75,6 +86,11 @@ $('#close-link').click(function(){
 //
 $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
 
+//
+//
+// Lazy Load Images
+//
+//
 
 //
 //
@@ -99,6 +115,6 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
     }
     
 });
-  
+
 
 });

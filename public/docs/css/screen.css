@@ -250,7 +250,7 @@ img.project-thumb-small {
 }
 
 .project-title .text a:hover {
-    border-bottom: 2px solid;
+    border-bottom: none;
 }
 
 .thumb-wrapper a:hover {
@@ -271,11 +271,7 @@ img.project-thumb-small {
 }
 
 .thumb-wrapper:hover {
-    transition: background-color 0.2s;
-    -moz-transition: background-color 0.2s; /* Firefox 4 */
-    -webkit-transition: background-color 0.2s; /* Safari and Chrome */
-    -o-transition: background-color 0.2s; /* Opera */
-    background-color:#e0ffff;
+
 }
 
 .thumb-wrapper img:hover {
@@ -283,7 +279,7 @@ img.project-thumb-small {
     -moz-transition: opacity 0.2s; /* Firefox 4 */
     -webkit-transition: opacity 0.2s; /* Safari and Chrome */
     -o-transition: opacity 0.2s; /* Opera */
-    opacity:0.8;
+    opacity:1.0;
 }
 .thumb-wrapper img{
     transition: opacity 0.8s;

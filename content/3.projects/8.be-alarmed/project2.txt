@@ -2,6 +2,8 @@ title: Be Alarmed
 -
 date: 2011, 2012
 -
+categories: Architecture, Research
+-
 pagepermalink: @permalink
 -
 content: 
