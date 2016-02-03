@@ -147,6 +147,8 @@ hr {
 
 #everything-link a:hover {
     border: none;
+    letter-spacing: 4px;
+    line-height: 1.3em;
 }
 
 
@@ -158,11 +160,11 @@ hr {
 }
 
 #projects-list-menu{
-    background-color: blue;
+    background-color: #FFC0CB;
     position: fixed;
     left: 50%;
-    width: 250px;
-    margin-left: -175px;
+    width: 310px;
+    margin-left: -205px;
     margin-top: -40px;
     padding: 20px 50px;
     z-index: 9999;
@@ -187,7 +189,7 @@ hr {
     display: inline-block;
     font-size: .9em;
     text-align: right;
-    margin: -5px -200px 0px 0px;
+    margin: -5px -310px 0px 0px;
 }
 
 #close-link:hover{
@@ -207,7 +209,7 @@ ul li {
 
 ul.projects li { 
     text-align: left; 
-    padding: 0px 0px 8px; 
+    padding: 0px 0px 16px; 
     list-style: none; 
 }
 
