@@ -32,7 +32,7 @@ $(window).resize(function(){
 	} else {
 		$container.masonry({
 		  itemSelector : '.project-teaser',
-		  columnWidth : '.grid-sizer',
+		  columnWidth : '.grid-sizer',  
 		  transitionDuration : 0
 		});	
 	}
@@ -42,19 +42,20 @@ $(window).resize(function(){
 // Title Hover
 //
 //
-var $title = $('span.text');
-var $thumb = $('.thumb-wrapper');
 var $category = $('.categories');
+var $hoverinfo = $('.hover-info');
 
-$thumb.hover(function () {
+$hoverinfo.hover(function () {
   var $teaser = $(this).parents('.project-teaser');
-    $teaser.find($category).css( "visibility", "visible" );
+    $teaser.find($category).css( "opacity", "1.0" );
   }, 
   function () {
     var $teaser = $(this).parents('.project-teaser');
-    $teaser.find($category).css( "visibility", "hidden" );
+    $teaser.find($category).css( "opacity", "0.0" );
   }
   );
+
+// var $title = $('span.text');
 
 // $thumb.hover(function () {
 // 	var $teaser = $(this).parents('.project-teaser');

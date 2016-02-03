@@ -206,7 +206,7 @@ ul li {
 }
 
 ul.projects li { 
-    float: left; 
+    text-align: left; 
     padding: 0px 0px 8px; 
     list-style: none; 
 }
@@ -294,6 +294,15 @@ img.project-thumb-small {
     -moz-box-shadow: 1px 1px 6px rgba(0,0,0,0.1);
     -webkit-box-shadow: 1px 1px 6px rgba(0,0,0,0.1);
     box-shadow: 1px 1px 6px rgba(0,0,0,0.1);
+}
+
+.categories {
+    margin-top: 4px;
+    opacity: 0;
+    transition: opacity 0.2s;
+    -moz-transition: opacity 0.2s; /* Firefox 4 */
+    -webkit-transition: opacity 0.2s; /* Safari and Chrome */
+    -o-transition: opacity 0.2s; /* Opera */
 }
 
 
