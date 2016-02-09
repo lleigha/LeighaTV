@@ -375,3 +375,11 @@ img.mfp-img {
   top: 0;
   right: 0;
   padding-top: 0; }
+
+
+  @media only screen and (max-width: 600px) {
+    .image-teaser img {
+      width: 350px;
+      margin: 0px 0px 30px 0px;
+    }
+  }
