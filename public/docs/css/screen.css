@@ -167,9 +167,9 @@ hr {
     background-color: #FFC0CB;
     position: fixed;
     left: 50%;
+    top: 100px;
     width: 310px;
     margin-left: -205px;
-    margin-top: -40px;
     padding: 20px 50px;
     z-index: 9999;
     -moz-box-shadow: 2px 2px 12px rgba(0,0,0,0.8);
