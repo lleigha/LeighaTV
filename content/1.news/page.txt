@@ -1,0 +1,10 @@
+title: News
+-
+content: 
+<h1>Current</h1>
+2015-2017 Fellowship in residence at the <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a> in Stuttgart, Germany
+
+
+<p>&nbsp;</p>
+<h1>Recent</h1>
+blah
