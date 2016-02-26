@@ -336,7 +336,7 @@ img.project-thumb-small {
 
 #pager-bottom {
     text-align: left;
-    width: 700px;
+    width: 900px;
     display: none;
 }
 
@@ -349,7 +349,7 @@ img.project-thumb-small {
 }
 
 #project-wrapper {
-    width: 1060px;
+    width: 1260px;
     padding-right: 100px;
     margin: auto;
 }
@@ -367,7 +367,7 @@ img.project-thumb-small {
 
 
 #media { 
-    width: 700px;
+    width: 900px;
     display: inline-block;
     text-align: left;
 }
@@ -427,9 +427,9 @@ p#gallery-count, div#gallery-navigation { display: none; }
 p#gallery-count span { margin: -1px 0px 0px; display: block; }
 div#gallery-navigation p { margin: 0px 0px 1px; }
 
-div#image-wrapper { overflow: hidden; width: 700px; }
+div#image-wrapper { overflow: hidden; width: 900px; }
 div#image-wrapper div#image-holder { width: 100000000px; }
-div#image-wrapper div#image-holder { float: left; width: 700px; }
+div#image-wrapper div#image-holder { float: left; width: 900px; }
 
 
 
@@ -451,14 +451,14 @@ a.atom-rss {
 
 /* Responsive */
 
-@media only screen and (max-width: 1120px) {
+@media only screen and (max-width: 1340px) {
 
     #project-wrapper {
         width: 100%;
     }
 
     #project-page-container .description { 
-        width: 700px;
+        width: 900px;
         margin: auto;
         padding-bottom: 10px;
         float: none;
@@ -477,7 +477,7 @@ a.atom-rss {
 }
 
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 980px) {
 
     #media, #media img {
         width: 100%;
