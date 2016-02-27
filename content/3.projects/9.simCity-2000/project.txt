@@ -2,7 +2,7 @@ title: SimCity 2000
 -
 date: 2009
 -
-categories: Architecture
+categories: Architecture, Media
 -
 pagepermalink: @permalink
 -

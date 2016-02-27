@@ -2,7 +2,7 @@ title: Building Megalopolis
 -
 date: May 2013
 -
-categories: Research, Teaching, Digital
+categories: Architecture, Research, Teaching, Digital
 -
 pagepermalink: @permalink
 -

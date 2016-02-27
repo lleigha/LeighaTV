@@ -2,7 +2,7 @@ title: Clouds
 -
 date: 2014
 -
-categories: Architecture
+categories: Architecture, Media
 -
 pagepermalink: @permalink
 -
