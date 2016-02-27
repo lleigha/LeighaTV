@@ -46,6 +46,7 @@ h2 {
     font-size: 26px; 
     font-weight: normal; 
     margin: 0px;
+    line-height: 1em;
 }
 
 
@@ -107,6 +108,7 @@ hr {
     z-index:9996; 
     font-size: 26px; 
     text-align: left;
+    line-height: 1em;
 }
 
 #navigation { 
@@ -491,6 +493,13 @@ a.atom-rss {
 
 }
 
+@media only screen and (max-width: 780px) {
+
+    img.project-thumb {
+        width:100%;
+    }
+
+}
 
 @media only screen and (max-width: 600px) {
 
@@ -500,10 +509,6 @@ a.atom-rss {
 
     .project-teaser {
         margin: 0px 0px 90px;
-    }
-
-    img.project-thumb {
-        width:100%;
     }
 
     .masonry-gutterfix{
