@@ -99,7 +99,9 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
 //
 //
   $(window).load(function(){
-    $("#pager").fadeIn("slow");
+
+     $("#pager").fadeIn("slow");
+
   });
 
   $(window).bind("load resize", function() {
