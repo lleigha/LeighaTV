@@ -1,0 +1,16 @@
+title: Architectural Alchemy
+-
+date: 2010
+-
+categories: Architecture, Media
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+What is architecture if it is not alchemy? Take base materials: stone, wood, sand, water, metal and,
+following a set of cryptic instructions, impenetrable to common folk, turn it into a dwelling. No wonder then, that masonry is not just the art of constructing buildings, both rather a guardian of arcane secrets, passed down orally from time immemorial. Still, until recently, architecture itself was but a pale shadow of the arcane sciences. Setting out to transmute base metals into gold, alchemists promised not mere buildings but boundless riches, eternal youth and a universal solvent. 
+</p>
+<p>
+Guised as a medieval illustration, this diagram describes the flow of capital that turned architecture into intangible capital (the structure of mortgaged-backed CDOs) and resulted in the economic collapse of 2008. In 2010 it was published in <a target="_blank" href="http://junkjet.net/">Junk Jet's</a> "Statistic of Mystics", and again later that year in the <a target="_blank" href="http://newcityreader.org/issue08.html">New City Reader's</a> Business issue. This is a project of the <a target="_blank" href="http://www.networkarchitecturelab.org/">Network Architecture Lab</a> produced with <a target="_blank" href="http://www.kyhoven.com/">Kyle Hovenkotter</a>.
+</p>

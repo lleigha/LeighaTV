@@ -1,0 +1,25 @@
+title: Pleasure Box
+-
+date: 2014, 2016
+-
+categories: Installation, Media
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+In <em>Anarchy, State, and Utopia</em>, philosopher Robert Nozick proposed a “Pleasure Machine” (or “Experience Machine”) that could guarantee pleasure at our demand through entirely simulated methods. Nozick argued that given the choice, we will still prefer everyday life, to do things instead of only having the experience of doing them. Nevertheless it is common practice for us to mediate our actions and interactions through machines. We willingly exchange physical experiences and relationships for virtual ones enabled by computers and mobile devices.
+</p>
+<p>
+<em>Pleasure Box</em> is an installation that gives users a choice to disconnect from mobile devices, creating temporary relief from the oversaturation of network culture. Smartphones are placed inside timed lock-boxes containing unique constructed environments. By capturing video, they document independent experiences, meanwhile their users are detached, left to ponder other pleasures. Using video displays and scaled physical constructs, the interiority of the box is subverted, and smartphones are transported to new worlds and realities, scaled down to the object, and demonstrated by the videos taken by the users’ smartphones. Each compartment is a new kind of architectural site, one in which the audience is the device and representations are produced not for human perception, but for the object. Today we experience much of the world through our devices. We use them to document our lives, referring back to our histories by replaying videos and photographs, often seeking experiences just to document them. In this case, the device records these experiences without us, but in the end we consume them in just the same way. 
+</p>
+<p>
+This piece was exhibited at the University of Michigan’s Taubman College in March-April 2014, awarded through the 2013-14 Muschenheim Fellowship. A second installation will be built and exhibited at the Contemporary Art Centre Vilnius, June 2016.
+</p>
+<p>
+Fabricator: Joseph Vidich, <a target="_blank" href="http://kinandcompany.com/">Kin & Company</a><br>
+<br>
+Contributing Artists: <em>Gold Palm Forrest</em>, <a target="_blank" href="http://www.eternitystew.com/">Adam Frezza and Terri Chiao</a><br>
+<br>
+Team: Ian Donaldson, Max Drapey, Martin Elliott, Alina Granville, Mark Keller, Andres Marin, Jeni Nguyen, Cody Pfleging, Paul Vidich, Ethan Walker, Muhammad Alshadood
+</p>
