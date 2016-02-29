@@ -1,0 +1,18 @@
+title: Whisper Gallery
+-
+date: 2015
+-
+categories: Architecture, Design
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+Public space is one of the cities most valuable assets, contributing to urban life in countless ways. Yet, our experiences of  collective urban space can be noisy, loud, and aggressive, undermining the good that it is meant to provide. The Whisper Gallery aims to quiet the city. It slows things down. It softens our interactions. Today’s city is oversaturated with physical and digital inputs and outputs, leaving urban dwellers detached and public space void of intimacy. The <em>Whisper Gallery</em> organizes people and space to enable more personal and gentler exchanges—outdoor conversations with indoor voices. What could be more intimate than a whisper?
+</p>
+<p>
+The <em>Whisper Gallery</em> is a simple, yet complex system based on a single intelligent modular panel made of laser-cut and bent aluminum sheets. The geometry of each panel is designed with the proportions and angles necessary to produce a concave wall capable of carrying whisper-sound-waves, allowing soft-spoken communication to be heard along the wall’s surface. Mirroring two curved walls has the effect of amplifying sound into their focal points, providing enclosure to block out loud ambient noise, and allowing for larger group conversations to be conducted at lower volumes. The project is comprised of two or more concave walls, which can be configured in a variety of ways to facilitate new forms of public conversation. By organizing sound, people, and space, the <em>Whisper Gallery</em> can provide the backdrop and amplification for conversations to occur at multiple scales: at the scale of two people meeting for the first time or at the larger scale of a gathering for discussion, debate, or presentation.
+</p>
+<p>
+Competition entry with <a target="_blank" href="http://kinandcompany.com/">Joseph Vidich</a>
+</p>
