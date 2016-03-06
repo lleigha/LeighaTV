@@ -166,7 +166,7 @@ hr {
 }
 
 #projects-list-menu{
-    background-color: #FFC0CB;
+    background-color: #ffff00;
     position: fixed;
     left: 50%;
     top: 100px;
@@ -387,6 +387,11 @@ img.project-thumb-small {
     -moz-box-shadow: 3px 3px 20px rgba(0,0,0,0.1);
     -webkit-box-shadow: 3px 3px 20px rgba(0,0,0,0.1);
     box-shadow: 3px 3px 20px rgba(0,0,0,0.1);
+}
+
+#media img {
+    width: 900px;
+    height: auto;
 }
 
 #media .caption {
