@@ -1,0 +1,17 @@
+title: Open Door
+-
+date: 2015
+-
+categories: Architecture, Design
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+A classic drawing game transforms a vernacular door into a platform for playful interactions in the home, while also subverting the door’s traditional role into a more nuanced syntax of private/public, open/closed. Traditionally, a door in a domestic environment constructs zones of privacy, negotiating the threshold between activities, rooms, and users. By converting a door into a perforated game board, it gains the ability to more overtly foster interactivity between people, and at the same time allows the door to have varying degrees of openness.</p>
+<p>
+Connect the Dots is a simple drawing game that involves collectively building lines and claiming territory. Its results are open-ended, and the final arrangements are different every time. As the game is played, the perforations in the door are gradually filled in, slowly transitioning into a traditional closed door. However, the game can end at any time, leaving the door in a variety of states between fully open and fully closed.
+</p>
+<p>
+Designed with <a target="_blank" href="http://kinandcompany.com/">Joseph Vidich</a>
+</p>
