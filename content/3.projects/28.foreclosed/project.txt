@@ -1,0 +1,9 @@
+title: Foreclosed
+-
+date: 2011,2012
+-
+categories: Architecture, Research, Design
+-
+pagepermalink: @permalink
+-
+content: 
