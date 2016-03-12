@@ -170,7 +170,7 @@ hr {
     position: fixed;
     left: 50%;
     top: 100px;
-    bottom: 15%;
+    bottom: 10%;
     width: 310px;
     margin-left: -205px;
     padding: 20px 50px;
@@ -182,7 +182,6 @@ hr {
     -moz-transition: background-color 0.8s; /* Firefox 4 */
     -webkit-transition: background-color 0.8s; /* Safari and Chrome */
     -o-transition: background-color 0.8s; /* Opera */
-    overflow-y: scroll;
 }
 
 .show{
@@ -205,6 +204,10 @@ hr {
 }
 
 #projects-list{
+    width: 310px;
+    padding: 0 50px;
+    margin: 0 -50px;
+    height: 95%;
 }
 
 #projects-link a:hover{

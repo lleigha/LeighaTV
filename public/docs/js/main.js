@@ -80,6 +80,17 @@ $('#close-link').click(function(){
     $('#projects-list-menu').addClass('hide');
 });
 
+
+(function($){
+        $(window).load(function(){
+            $("#projects-list").mCustomScrollbar({
+                theme:"minimal-dark",
+                scrollInertia: 10,
+                autoDraggerLength: false,
+              });
+        });
+    })(jQuery);
+
 //
 //
 // Image Drop Shadow
