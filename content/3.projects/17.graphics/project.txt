@@ -1,0 +1,12 @@
+title: Some Graphics
+-
+date: 2009-2013
+-
+categories: Design
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+A small selection of commissioned posters and graphics. 
+</p>
