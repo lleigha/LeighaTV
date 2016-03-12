@@ -1202,7 +1202,7 @@ $.magnificPopup.registerModule('image', {
 			if(!item || !item.img) return;
 
 			if(mfp.st.image.verticalFit) {
-				var decr = 0;
+				var decr = 100;
 				// fix box-sizing in ie7/8
 				if(mfp.isLowIE) {
 					decr = parseInt(item.img.css('padding-top'), 10) + parseInt(item.img.css('padding-bottom'),10);
