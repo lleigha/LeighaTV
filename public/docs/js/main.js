@@ -104,6 +104,10 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
 //
 //
 
+// $(function() {
+//         $('.lazy').Lazy();
+//     });
+         
 //
 //
 // Project Pager (Next)

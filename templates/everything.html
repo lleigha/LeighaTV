@@ -12,8 +12,8 @@
   <body>
     <div id="page-container">
       :navigation
-      :preloader
-      <div id="content">
+      :preloader 
+     <div id="content">
         <div id="image-container" class="js-masonry">
            <div class="grid-sizer"></div>
             foreach $root do
@@ -33,12 +33,13 @@
 
 
             ///Preloader///
-            $(window).load(function(){
+           $(window).load(function(){
               $('#squaresWaveG').fadeOut(200);
               $('#preloader').fadeOut(1000,function(){
                 $(this).remove();
                 });
             });
+
 
 
 
