@@ -127,7 +127,7 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
     var offset = media.offset();
 
     if ($("#pager-bottom").css("display") == "none" ) {
-      $("#pager").offset({ top: 35, left: offset.left});
+      $("#pager").offset({ left: offset.left});
     } else {
       $("#pager").css("display", "none");
     }
