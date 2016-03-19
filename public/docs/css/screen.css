@@ -347,6 +347,8 @@ img.project-thumb-small {
     display: none;
 }
 
+
+
 #project-page-container {
     clear: both;
     margin-bottom: 80px;
@@ -427,13 +429,16 @@ img.project-thumb-small {
     border-bottom: none;
 }
 
-/* Info Page */
+/* Info/News Page */
 
 #info-page-container {
-    width: 500px;
+    width: 600px;
     margin-bottom: 80px;
 }
 
+ul.news li {
+    margin: 0px 0px 10px; 
+}
 
 
 
