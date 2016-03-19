@@ -3,13 +3,23 @@ title: News
 content: 
 <h1>Current and Forthcoming</h1>
 <ul class="news">
+
 	<li>June 2016 – Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
+
 	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
 
 </ul>
+
 <p>&nbsp;</p>
 <h1>Recent</h1>
 <ul class="news">
-	<li>Feb-Aug 2015 – <a target="_blank" href="http://www.yourcribs.net/">YourCribs</a> broadcasts at <a target="_blank" href="http://storefrontnews.org/programming/storefront-tv-season-2/">Storefront for Art and Architecture</a>, NYC</li>
-	<li>May 2015 – Beetle Wrestler is published in MoMA's <a target="_blank" href="http://designandviolence.moma.org/design-and-violence-the-book/">Design and Violence</a> book</li>
+
+	<li>Feb-Aug 2015 – <em><a target="_blank" href="http://www.yourcribs.net/">YourCribs</a></em> broadcasts at <a target="_blank" href="http://storefrontnews.org/programming/storefront-tv-season-2/">Storefront for Art and Architecture</a>, NYC</li>
+
+	<li>Aug 2015 – <em>Pleasure Box</em> and <em>Clouds</em> are published in <em><a target="_blank" href="https://taubmancollege.umich.edu/architecture/publications/dimensions/dimensions-28">Dimensions 28</a></em>, Univ. of Michigan</li>
+
+	<li>July 2015 – <a target="_blank" href="https://youtu.be/aEP-lyJfs08">Miu Miu Club</a> launches for one night in Paris (project with <a target="_blank" href="http://2x4.org/">2x4</a>)</li>
+
+	<li>May 2015 – <em>Beetle Wrestler</em> is published in MoMA's <em><a target="_blank" href="http://designandviolence.moma.org/design-and-violence-the-book/">Design and Violence</a></em> book</li>
+
 </ul>
