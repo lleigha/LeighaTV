@@ -12,10 +12,9 @@
   <body>
     <div id="page-container">
       :navigation
-      :preloader 
-     <div id="content">
-        <div id="image-container" class="js-masonry">
-           <div class="grid-sizer"></div>
+<!--       :preloader 
+ -->     <div id="content">
+        <div id="image-container">
             foreach $root do
 
               :every-image
@@ -33,34 +32,16 @@
 
 
             ///Preloader///
-           $(window).load(function(){
+         /*  $(window).load(function(){
               $('#squaresWaveG').fadeOut(200);
-              $('#preloader').fadeOut(1000,function(){
+              $('#preloader').fadeOut(500,function(){
                 $(this).remove();
                 });
-            });
+            });*/
 
-
-
-
-            var $container = $('#image-container');
-
-             
-            $container.imagesLoaded( function(){
-
-              ///Masonry///
-              $container.masonry({
-                itemSelector : '.image-teaser',
-                columnWidth : '.grid-sizer',
-                transitionDuration : 0,
-                isFitWidth: 'true',
-              });
-
-              $container.fadeTo( "slow", 1.0 );
-
-              });
-
-              ///Magnific Popup///    
+              ///Magnific Popup///   
+              var $container = $('#image-container');
+ 
               $('#image-container').magnificPopup({ 
                 delegate: 'a',
                 type: 'image',

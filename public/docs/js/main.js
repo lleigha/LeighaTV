@@ -2,9 +2,7 @@
 $(document).ready(function(){
 
 //
-//
 // Masonry
-//
 //
   var $container = $('#projects-container');
 
@@ -22,9 +20,7 @@ $(document).ready(function(){
   });
 
 //
-//
 // Browser Resize
-//
 //
 $(window).resize(function(){
 	if ($(window).width() <= 600){	
@@ -37,10 +33,9 @@ $(window).resize(function(){
 		});	
 	}
 });
-//
+
 //
 // Title Hover
-//
 //
 var $category = $('.categories');
 var $hoverinfo = $('.hover-info');
@@ -66,10 +61,9 @@ $hoverinfo.hover(function () {
 //     $teaser.find($title).css( "border-bottom", "none" );
 //   }
 //   );
-//
+
 //
 // Projects List
-//
 //
 $('#projects-link').click(function(){
     $('#projects-list-menu').toggleClass('hide');
@@ -92,26 +86,24 @@ $('#close-link').click(function(){
     })(jQuery);
 
 //
-//
 // Image Drop Shadow
-//
 //
 $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
 
 //
-//
 // Lazy Load Images
 //
-//
-
-// $(function() {
-//         $('.lazy').Lazy();
-//     });
+$(function() {
+        $('.lazy').lazy({
+          effect: "fadeIn",
+          effectTime: 500,
+          combined: true,
+          delay: 8000,
+        });
+    });
          
 //
-//
 // Project Pager (Next)
-//
 //
   $(window).load(function(){
 

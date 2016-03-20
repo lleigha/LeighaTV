@@ -418,11 +418,21 @@ img.project-thumb-small {
 
 #image-container{
     margin: auto;
-    opacity:0.0;
+    text-align: center;
 }
 
 .image-teaser {
     margin: 0px 40px 40px 0px; 
+    display: inline-block;
+    width: 200px;
+    height: 133px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.image-teaser img{
+    max-width: 100%;
+    max-height: 100%;
 }
 
 #image-container a:hover {
