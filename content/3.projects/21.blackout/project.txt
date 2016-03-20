@@ -1,0 +1,15 @@
+title: Blackout
+-
+date: 2010
+-
+categories: Media
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+The inaugural issue of the <em><a target="_blank" href="http://newcityreader.org/issue01.html">New City Reader</a></em>, an iterant newspaper produced on-site at the New Museum during <em><a target="_blank" href="http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/1080">The Last Newspaper</a></em> show in 2010, is an illustrated history of the July 1977 blackout in New York City told through the story of the New York Times. Specifically, it chronicles the improvised production of the next morning’s paper, using printed media as a lens to view responses to infrastructural collapse. This is a project of the <a target="_blank" href="http://www.networkarchitecturelab.org/">Network Architecture Lab</a>.
+</p>
+<p>
+<a target="_blank" href="http://newcityreader.org/issue01.html">Full text and images</a>
+</p>

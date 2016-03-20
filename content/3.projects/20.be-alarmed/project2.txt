@@ -1,0 +1,21 @@
+title: Be Alarmed
+-
+date: 2011
+-
+categories: Architecture, Design
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+Situated in a landscape of petrochemical plants and industrial chemical run-off, this project proposes an alarm system that monitors, alerts, and reveals the everyday conditions of toxicity in Louisiana’s Cancer Alley. A network of devices, using sensors and phytotechnology, present levels of groundwater, river water and air contamination through recognizable and decipherable forms of display. 
+</p>
+<p>
+Attempts at providing security for the communities in Cancer Alley have been largely unsuccessful, resulting in moments of panic and confusion. Alarm speakers, functional and not, dot the landscape, while intercoms have been installed in homes, asserting a latent paranoia of surveillance and potential disaster. As companies grow over time, acquiring farmland and entire communities, their expansions can leave homes within unsafe proximities sometimes only a matter of feet away. For homes that are bought out, swaths of pastoral greenscaping are left in their places—a kind of visual illusion that everything is fine. Security alarms are sounded when danger is nearly eminent and the only option is to flee. The events that are alerted are extreme: explosions, massive spills, etc. However, everyday these communities are exposed to varying levels of toxins in the air, water, food, and ground. These quantities of contamination are themselves alarming, yet go unknown, unnoticed, and largely unregulated.
+</p>
+<p>
+Containers for dormant toxic waste with unforeseeable shelf lives and questionable migration activities are deposited deep below the homes of many of these communities. Similarly, underground geological salt caverns are often used to store chemicals and crude oil, leaving ground water at the risk of contamination. While the air above is subject to invisible harmful pollutants, below ground is just as precarious. Designed as a kind of public service announcement and kit-of-parts, this project aspires to a transparency of information that does not currently exist for the public. As these devices integrate into the rural-suburban landscape, if levels of toxicity become increasingly harmful, residents will have the ability to track changes, giving them enough time to evacuate or contact authorities. Over time, the devices will actively improve contamination through remediation and awareness, resulting in their own optimistic obsolescence.
+</p>
+<p>
+This project was published in <em><a target="_blank" href="http://www.amazon.com/Bracket--Goes-Soft--Almanac-2-Neeraj-Bhatia/dp/8415391021/ref=sr_1_1?s=books&ie=UTF8&qid=1360179574&sr=1-1&keywords=bracket">Bracket 2: Goes Soft</a></em> in 2013.
+</p>
