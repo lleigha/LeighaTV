@@ -94,7 +94,7 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
 // Lazy Load Images
 //
 $(function() {
-        $('.lazy').lazy({
+        $('.lazy').Lazy({
           combined: true,
           delay: 8000,
         });
