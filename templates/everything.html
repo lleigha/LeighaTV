@@ -12,8 +12,7 @@
   <body>
     <div id="page-container">
       :navigation
-<!--       :preloader 
- -->     <div id="content">
+    <div id="content">
         <div id="image-container">
             foreach $root do
 
@@ -30,17 +29,9 @@
 
        $(document).ready(function() {
 
-
-            ///Preloader///
-         /*  $(window).load(function(){
-              $('#squaresWaveG').fadeOut(200);
-              $('#preloader').fadeOut(500,function(){
-                $(this).remove();
-                });
-            });*/
+            // $('.image-teaser img').fadeTo( 2000, 1.0 );
 
               ///Magnific Popup///   
-              var $container = $('#image-container');
  
               $('#image-container').magnificPopup({ 
                 delegate: 'a',
@@ -48,7 +39,7 @@
                 preloader: true,
                 gallery:{
                   enabled:true,
-                  preload: [2,2],
+                  preload: [5,5],
                 },
                 image: {
                   titleSrc: function(item) {

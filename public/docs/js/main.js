@@ -95,8 +95,6 @@ $(".image img[src*='dropshadow']").css( "box-shadow", "none" );
 //
 $(function() {
         $('.lazy').lazy({
-          effect: "fadeIn",
-          effectTime: 500,
           combined: true,
           delay: 8000,
         });
