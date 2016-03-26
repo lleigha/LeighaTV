@@ -234,6 +234,10 @@ ul.projects li {
     opacity:0.0;
 }
 
+.gutter-fix {
+    overflow-x: hidden;
+}
+
 .project-teaser {
     margin-right: 4%;
     margin-bottom: 90px; 
@@ -515,6 +519,15 @@ a.atom-rss {
 
 @media only screen and (max-width: 1340px) {
 
+    #projects-container {
+        width: 105%;
+    }
+
+    .project-teaser {
+        width: 45%;
+        margin-right: 5%;
+    }
+
     #project-wrapper {
         width: 100%;
     }
@@ -567,28 +580,20 @@ a.atom-rss {
 
 }
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 680px) {
 
-    img.project-thumb {
-        width:100%;
+    #projects-container {
+        width: 100%; 
     }
 
+    .project-teaser {
+        width: 100%;
+        margin: 0px 0px 90px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
 
-    .grid-sizer {
-        width:100%;
-    }
-
-    .project-teaser {
-        margin: 0px 0px 90px;
-    }
-
-    .masonry-gutterfix{
-         margin-right: 32px !important;
-    }
-    
 
     #navigation {
         top: 70px; 
