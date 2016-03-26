@@ -2,37 +2,15 @@
 $(document).ready(function(){
 
 //
-// Masonry
+// Index
 //
-  var $container = $('#projects-container');
+var $container = $('#projects-container');
 
   $container.imagesLoaded( function(){
-
-    $container.masonry({
-      itemSelector : '.project-teaser',
-      columnWidth : '.grid-sizer',
-      transitionDuration : 0
-    })
-    .masonry();
 
     $container.fadeTo( "fast", 1.0 );
 
   });
-
-//
-// Browser Resize
-//
-$(window).resize(function(){
-	if ($(window).width() <= 600){	
-		$container.masonry('destroy');
-	} else {
-		$container.masonry({
-		  itemSelector : '.project-teaser',
-		  columnWidth : '.grid-sizer',  
-		  transitionDuration : 0
-		});	
-	}
-});
 
 //
 // Title Hover
@@ -49,18 +27,6 @@ $hoverinfo.hover(function () {
     $teaser.find($category).css( "opacity", "0.0" );
   }
   );
-
-// var $title = $('span.text');
-
-// $thumb.hover(function () {
-// 	var $teaser = $(this).parents('.project-teaser');
-//     $teaser.find($title).css( "border-bottom", "2px solid" );
-//   }, 
-//   function () {
-//   	var $teaser = $(this).parents('.project-teaser');
-//     $teaser.find($title).css( "border-bottom", "none" );
-//   }
-//   );
 
 //
 // Projects List
