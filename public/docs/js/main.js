@@ -64,7 +64,7 @@ $(function() {
           combined: true,
           delay: 8000,
         });
-    });
+});
          
 //
 // Project Pager (Next)
@@ -90,5 +90,15 @@ $(function() {
     
 });
 
+//
+// Everything Link Bottom
+//  
+/*$(function() {
+  if ($("#everything-link-bottom").css("display") == "inline-block" ) {
+    $("#everything-link").css("display" , "none");
+  } else {
+      $("#everything-link").css("display", "block");
+    }
+});*/
 
 });
