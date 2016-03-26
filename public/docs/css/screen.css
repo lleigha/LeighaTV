@@ -421,6 +421,10 @@ img.project-thumb-small {
     text-align: center;
 }
 
+#image-container a:hover {
+    border-bottom: none;
+}
+
 .image-teaser {
     margin: 0px 40px 40px 0px; 
     display: inline-block;
@@ -429,16 +433,28 @@ img.project-thumb-small {
     overflow: hidden;
     text-align: center;
     vertical-align: top;
+    position: relative;
 }
 
 .image-teaser img{
     max-width: 100%;
     max-height: 100%;
+    position: absolute;
+    display: block;
+    margin: auto;
+    left: 0;
+    right: 0;
 }
 
-#image-container a:hover {
-    border-bottom: none;
+img.lazy {
+
 }
+
+img.lazysmall {
+
+}
+
+
 
 /* Info/News Page */
 
