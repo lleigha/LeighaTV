@@ -225,32 +225,26 @@ ul.projects li {
 }
 
 
-/* Masonry Index */
+/* Index */
 
 #projects-container {
-    width: 100%; 
+    width: 103%; 
     text-align: left;
+    display: inline-block;
     opacity:0.0;
 }
 
-.overflow-gutterfix{
-    overflow-x: hidden;
-}
-
-.masonry-gutterfix{
-    margin-right: -35px !important;
-    margin-top: 122px !important;
-}
-
-.grid-sizer {width: 1px;}
-
 .project-teaser {
-    margin: 0px 65px 90px 0px; 
+    margin-right: 4%;
+    margin-bottom: 90px; 
     float: left;
+    width: 29%;
+    max-width: 600px;
 }
 
 img.project-thumb { 
     display: inline; 
+    width: 100%;
 }
 
 img.project-thumb-small { 
@@ -498,6 +492,26 @@ a.atom-rss {
 
 
 /* Responsive */
+
+@media only screen and (min-width: 2050px) {
+    #page-container {
+        position: relative;
+        width: 2034px;
+    }
+
+    #home {
+        position: absolute;
+        top: -95px;
+        left: 32px;
+    }
+
+    #navigation {
+        position: absolute;
+        top: -95px;
+        right: 32px;
+    }
+
+}
 
 @media only screen and (max-width: 1340px) {
 
