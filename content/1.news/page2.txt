@@ -8,8 +8,6 @@ content:
 
 	<li>21 May 2016 – Lecture in <em>Biography and the Production of Space</em> symposium, Akademie Schloss Solitude, Stuttgart, Germany </li>
 
-	<li>2 April 2016 – Contributor in <em>The Artist is Online</em> performance exhibition, Projektraum Römerstrasse 2a, Stuttgart, Germany </li>
-
 	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
 
 </ul>
@@ -17,6 +15,8 @@ content:
 <p>&nbsp;</p>
 <h1>Recent</h1>
 <ul class="news">
+
+	<li>2 April 2016 – "Live Room" in <em>The Artist is Online</em> performance exhibition, Projektraum Römerstrasse 2a, Stuttgart, Germany </li>
 
 	<li>Feb-Aug 2015 – <em><a target="_blank" href="http://www.yourcribs.net/">YourCribs</a></em> broadcasts at <a target="_blank" href="http://storefrontnews.org/programming/storefront-tv-season-2/">Storefront for Art and Architecture</a>, NYC</li>
 
