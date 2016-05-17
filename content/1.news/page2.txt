@@ -15,8 +15,10 @@ content:
 <p>&nbsp;</p>
 <h1>Recent</h1>
 <ul class="news">
+	
+	<li>17 May 2016 – <a target="_blank" href="http://schloss-post.com/neither-space-is-neutral/">Neither Space is Neutral"</a> an interview on <em>Schloss Post</em>.</li>
 
-	<li>2 April 2016 – "Live Room" in <em>The Artist is Online</em> performance exhibition, Projektraum Römerstrasse 2a, Stuttgart, Germany </li>
+	<li>2 April 2016 – "Live Room" in <em><a target="_blank" href="http://schloss-post.com/the-artist-is-online/" >The Artist is Online</a></em> performance exhibition, Projektraum Römerstrasse 2a, Stuttgart, Germany </li>
 
 	<li>Feb-Aug 2015 – <em><a target="_blank" href="http://www.yourcribs.net/">YourCribs</a></em> broadcasts at <a target="_blank" href="http://storefrontnews.org/programming/storefront-tv-season-2/">Storefront for Art and Architecture</a>, NYC</li>
 
