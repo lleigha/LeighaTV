@@ -6,8 +6,6 @@ content:
 
 	<li>June 2016 – Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
 
-	<li>21 May 2016 – Lecture in <em>Biography and the Production of Space</em> symposium, Akademie Schloss Solitude, Stuttgart, Germany </li>
-
 	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
 
 </ul>
@@ -15,6 +13,8 @@ content:
 <p>&nbsp;</p>
 <h1>Recent</h1>
 <ul class="news">
+
+	<li>21 May 2016 – Lecture in <em><a target="_blank" href="http://www.akademie-solitude.de/en/events/symposium-biographies-the-production-of-space-between-life-and-places~no3790/">Biography and the Production of Space</a></em> symposium, Akademie Schloss Solitude, Stuttgart, Germany </li>
 	
 	<li>17 May 2016 – <a target="_blank" href="http://schloss-post.com/neither-space-is-neutral/">"Neither Space is Neutral"</a> an interview on <em>Schloss Post</em>.</li>
 
