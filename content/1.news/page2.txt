@@ -4,7 +4,7 @@ content:
 <h1>Current and Forthcoming</h1>
 <ul class="news">
 
-	<li>June 2016 – Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
+	<li>June-Aug 2016 – <em><a target="_blank" href="http://www.networkarchitecturelab.org/projects/detachment">Detachment</a></em>, Network Architecture Lab Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
 
 	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
 
