@@ -1,0 +1,15 @@
+title: Green Screens
+-
+date: 2015
+-
+categories: Architecture, Media
+-
+pagepermalink: @permalink
+-
+content:
+<p>
+Throughout New York City and particularly in Downtown Brooklyn, shifts in land use and the introduction of economic development incentives have produced a boom in new construction that is occurring on a massive scale. Due to the size and complexity of these new buildings, construction times can last for many years and construction sites can take over entire city blocks. These sites are almost always sheathed in plywood walls painted shades of monochromatic green and blue in a meager attempt to improve the image of the city and appease pedestrian life. <em>Green Screens</em> appropriates the blank surfaces of large construction fences as chroma-screens for the production of videos. Situated in public, along sidewalks and construction sites, it negotiates the relationship between the human-scale walkable city and the large-scale infrastructural spaces we navigate.
+</p>
+<p>
+Video stills showing animated imagery of Picturesque paintings of the 19th century, illustrating the misguided attempt to appropriate the image of green and nature to mask the otherwise grotesque scenery. Project is ongoing.
+</p>
