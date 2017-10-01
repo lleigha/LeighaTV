@@ -4,7 +4,7 @@ content:
 <h1>Current and Forthcoming</h1>
 <ul class="news">
 
-	<li>June-Aug 2016 – <em><a target="_blank" href="http://www.networkarchitecturelab.org/projects/detachment">Detachment</a></em>, Network Architecture Lab Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
+	<li>Sept-Nov 2017 – Contribution to <em><a target="_blank" href="http://storefrontnews.org/programming/souvenirs-new-new-york-icons/">Souvenirs: New New York Icons</em></a></em> exhibition, Storefront for Art and Architecture, NYC</li>
 
 	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
 
@@ -13,6 +13,8 @@ content:
 <p>&nbsp;</p>
 <h1>Recent</h1>
 <ul class="news">
+
+	<li>June-Aug 2016 – <em><a target="_blank" href="http://www.networkarchitecturelab.org/projects/detachment">Detachment</a></em>, Network Architecture Lab Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
 
 	<li>21 May 2016 – Lecture in <em><a target="_blank" href="http://www.akademie-solitude.de/en/events/symposium-biographies-the-production-of-space-between-life-and-places~no3790/">Biography and the Production of Space</a></em> symposium, Akademie Schloss Solitude, Stuttgart, Germany </li>
 	
