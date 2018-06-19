@@ -4,15 +4,17 @@ content:
 <h1>Current and Forthcoming</h1>
 <ul class="news">
 
-	<li>Sept-Nov 2017 – Contribution to <em><a target="_blank" href="http://storefrontnews.org/programming/souvenirs-new-new-york-icons/">Souvenirs: New New York Icons</em></a></em> exhibition, Storefront for Art and Architecture, NYC</li>
-
-	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
+	<li>20 June 2018 – Patina Performance and contribution of the Patina Stool to <em><a target="_blank" href="http://storefrontnews.org/programming/24x24x24/">Solstice: 24x24x24</em></a></em> event with <a target="_blank" href="http://www.kinandcompany.com/">Kin & Company</a>, Storefront for Art and Architecture, NYC</li>
 
 </ul>
 
 <p>&nbsp;</p>
 <h1>Recent</h1>
 <ul class="news">
+
+	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
+
+	<li>Sept-Nov 2017 – Contribution to <em><a target="_blank" href="http://storefrontnews.org/programming/souvenirs-new-new-york-icons/">Souvenirs: New New York Icons</em></a></em> exhibition, Storefront for Art and Architecture, NYC</li>
 
 	<li>June-Aug 2016 – <em><a target="_blank" href="http://www.networkarchitecturelab.org/projects/detachment">Detachment</a></em>, Network Architecture Lab Exhibition at the <a target="_blank" href="http://www.cac.lt/en">Contemporary Art Centre</a>, Vilnius, Lithuania</li>
 
