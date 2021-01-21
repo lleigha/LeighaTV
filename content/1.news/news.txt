@@ -1,16 +1,16 @@
 title: News
 -
 content: 
-<h1>Current and Forthcoming</h1>
+<h1>News</h1>
 <ul class="news">
+
+	<li>February 2020 – Contribution to <em><a target="_blank" href="https://knowlton.osu.edu/events/2020/02/fulfilled-exhibition">Fullfilled Exhibition</em></a></em> and <em><a target="_blank" href="https://knowlton.osu.edu/events/2020/02/fulfilled-symposium">Fullfilled Symposium</em></a></em>, Knowlton School, Ohio State University</li>
+
+	<li>8 February 2019 – Lecture for the <a target="_blank" href="https://www.arch.columbia.edu/graphics-project">Graphics Project</em></a> with Florian Mewes, Columbia University GSAPP</li>
 
 	<li>20 June 2018 – Patina Performance and contribution of the Patina Stool to <em><a target="_blank" href="http://storefrontnews.org/programming/24x24x24/">Solstice: 24x24x24</em></a></em> event with <a target="_blank" href="http://www.kinandcompany.com/">Kin & Company</a>, Storefront for Art and Architecture, NYC</li>
 
-</ul>
-
-<p>&nbsp;</p>
-<h1>Recent</h1>
-<ul class="news">
+	<li>April 2017 – Featured in TL Mag's <em>Reinvented Architecture: New York Architecture Studios</em></li>
 
 	<li>2015-2017 – Fellowship in Architecture, <a target="_blank" href="http://www.akademie-solitude.de/en">Akademie Schloss Solitude</a>, Stuttgart, Germany </li>
 
