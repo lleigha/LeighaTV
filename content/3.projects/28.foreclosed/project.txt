@@ -8,8 +8,8 @@ pagepermalink: @permalink
 -
 content: 
 <p>
-The  <a target="_blank" href="http://www.mos-office.net/">MOS</a> contribution to <em><a target="_blank" href="http://www.moma.org/interactives/exhibitions/2012/foreclosed/oranges">Foreclosed: Rehousing the American Dream</a></em>, an exhibition at the Museum of Modern Art in New York in 2012 with workshops held at MoMA PS1 in 2011. A project to rethink housing, public infrastructure, and public health in Orange, New Jersey, a suburb of New York. Project Lead for MOS. 
+The  <a target="_blank" href="http://www.mos-office.net/">MOS</a> contribution to <em><a target="_blank" href="https://www.moma.org/calendar/exhibitions/1213">Foreclosed: Rehousing the American Dream</a></em>, an exhibition at the Museum of Modern Art in New York in 2012 with workshops held at MoMA PS1 in 2011. A project to rethink housing, public infrastructure, and public health in Orange, New Jersey, a suburb of New York. Project Lead for MOS. 
 </p>
 <p>
-<a target="_blank" href="http://www.moma.org/interactives/exhibitions/2012/foreclosed/oranges">More information</a>
+<a target="_blank" href="https://www.mos.nyc/project/thoughts-walking-city">More information</a>
 </p>

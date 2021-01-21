@@ -8,5 +8,5 @@ pagepermalink: @permalink
 -
 content: 
 <p>
-Orange, New Jersey in 2011 just after the foreclosure crisis. This film was a part of the <a target="_blank" href="http://www.mos-office.net/">MOS</a> contribution to <em><a target="_blank" href="http://www.moma.org/interactives/exhibitions/2012/foreclosed/oranges">Foreclosed: Rehousing the American Dream</a></em>, an exhibition at the Museum of Modern Art in New York in 2012. Made with <a target="_blank" href="http://chriswoebken.com/WORK">Chris Woebken</a> for MOS. 
+Orange, New Jersey in 2011 just after the foreclosure crisis. This film was a part of the <a target="_blank" href="http://www.mos-office.net/">MOS</a> contribution to <em><a target="_blank" href="https://www.moma.org/calendar/exhibitions/1213">Foreclosed: Rehousing the American Dream</a></em>, an exhibition at the Museum of Modern Art in New York in 2012. Made with <a target="_blank" href="http://chriswoebken.com">Chris Woebken</a> for MOS. 
 </p>
