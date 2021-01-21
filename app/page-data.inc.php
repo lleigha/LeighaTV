@@ -110,7 +110,7 @@ Class PageData {
     $split_url = explode("/", $page->url_path);
     $page->slug = $split_url[count($split_url) - 1];
     # @page_name
-    $page->page_name = ucfirst(preg_replace('/[-_](.)/e', "' '.strtoupper('\\1')", $page->data['@slug']));
+    $page->page_name = ucfirst(preg_replace_callback('/[-_](.)/', function ($matches) { return "''.strtoupper('\\1')"; }, $page->data['@slug']));
     # @root_path
     $page->root_path = Helpers::relative_root_path();
     # @thumb
@@ -180,11 +180,11 @@ Class PageData {
     # $swf, $html, $doc, $pdf, $mp3, etc.
     # create a variable for each file type included within the page's folder (excluding .txt files)
     $assets = self::get_file_types($page->file_path);
-    foreach($assets as $asset_type => $asset_files) eval('$page->'.$asset_type.'=$asset_files;');
+    foreach($assets as $asset_type => $asset_files) $page->$asset_type = $asset_files;
 
     # create asset collections (any assets within a folder beginning with an underscore)
     $asset_collections = self::get_asset_collections($page->file_path);
-    foreach($asset_collections as $collection_name => $collection_files) eval('$page->'.$collection_name.'=$collection_files;');
+    foreach($asset_collections as $collection_name => $collection_files) $page->$collection_name = $collection_files;
   }
 
   static function create_textfile_vars($page) {
@@ -228,9 +228,11 @@ Class PageData {
       # set a variable with a name of 'key' on the page with a value of 'value'
       # if the template type is xml or html & the 'value' contains a newline character, parse it as markdown
       if(strpos($colon_split[1], "\n") !== false && preg_match('/xml|htm|html|rss|rdf|atom/', $split_path[1])) {
-        $page->$colon_split[0] = Markdown(trim($colon_split[1]));
+              $dakey = $colon_split[0];
+              $page->$dakey = Markdown(trim($colon_split[1]));
       } else {
-        $page->$colon_split[0] = trim($colon_split[1]);
+              $dakey = $colon_split[0];
+              $page->$dakey = trim($colon_split[1]);
       }
     }
   }
