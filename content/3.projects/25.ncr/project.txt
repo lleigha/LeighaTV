@@ -1,0 +1,23 @@
+title: New City Reader
+-
+date: 2010
+-
+categories: Media
+-
+pagepermalink: @permalink
+-
+content: 
+<p>
+The <em><a target="_blank" href="http://newcityreader.org">New City Reader</a></em> was an iterant newspaper on architecture, public space and the city, produced on-site at the New Museum during <em><a target="_blank" href="http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/1080">The Last Newspaper</a></em> exhibition in 2010. The format of the New City Reader was inspired by the Dazibao, the Chinese practice of affixing newspapers in public space for collective reading.
+</p>
+
+<p>
+The paper consisted of 14 weekly editions guest-edited by a contributing network of architects, theorists, and research groups. Each issue addressed a single section of a typical newspaper (such as Sports, Finance or Obituaries), and were available for free at the New Museum and in public throughout the city.
+</p>
+
+<p>
+The Network Architecture Lab edited the inaugural issue, <em>Blackout </em> – an illustrated history of the July 1977 blackout in New York City told through the story of the New York Times. Specifically, it chronicles the improvised production of the next morning’s paper, using printed media as a lens to view responses to infrastructural collapse. 
+</p>
+<p>
+<a target="_blank" href="http://newcityreader.org">Full text and images</a>
+</p>
